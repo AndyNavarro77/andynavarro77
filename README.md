@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Navarro</h1>
 <h3 align="center">Estudiante de la carrera de Analsis, Desarrollo y Programacion de Aplicaciónes.</h3>
 
-- 🔭 Actualmente trabajo en **proyectos personales como Qa Tester**
+- 🔭 Actualmente trabajo en **proyectos como Analista QA**
 
 - 🌱 Ademas estudio programación en el **ISFDT N°93**
 
